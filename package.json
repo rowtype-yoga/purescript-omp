@@ -1,0 +1,9 @@
+{
+  "name": "purescript-omp",
+  "version": "0.0.1",
+  "description": "PureScript bindings for omp extension UI APIs",
+  "license": "MIT",
+  "repository": "github:rowtype-yoga/purescript-omp",
+  "private": true,
+  "type": "module"
+}

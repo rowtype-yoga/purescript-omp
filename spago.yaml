@@ -1,0 +1,17 @@
+package:
+  name: omp
+  dependencies:
+    - effect: ">=4.0.0 <5.0.0"
+    - prelude: ">=6.0.2 <7.0.0"
+  publish:
+    version: 0.0.1
+    license: MIT
+    include:
+      - package.json
+      - LICENSE
+    location:
+      githubOwner: rowtype-yoga
+      githubRepo: purescript-omp
+workspace:
+  packageSet:
+    registry: 73.2.0
